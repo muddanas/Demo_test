@@ -1,1 +1,3 @@
 Hi,I am in GitHUB
+
+I update the code in a.txt
