@@ -10,3 +10,5 @@ updated a.txt in new Branch mynewbaranch
 
 update code in mynewbranch 
 >>>>>>> mynewbranch
+
+Insert 1
