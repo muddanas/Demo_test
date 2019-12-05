@@ -1,4 +1,5 @@
 Hi,I am in GitHUB
+<<<<<<< HEAD
 
 I update the code in a.txt
 
@@ -12,3 +13,7 @@ update code in mynewbranch
 >>>>>>> mynewbranch
 
 Insert 1
+=======
+>>>>>>> ce2980d99431940e669673f1c21ae17f7c7a0cad
+
+Insert 2
