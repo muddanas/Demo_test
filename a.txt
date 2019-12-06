@@ -1,23 +1,15 @@
 Hi,I am in GitHUB
-<<<<<<< HEAD
 
 I update the code in a.txt
 
-<<<<<<< HEAD
 updated a.txt after ssh key generation
-=======
 
 updated a.txt in new Branch mynewbaranch
 
 update code in mynewbranch 
->>>>>>> mynewbranch
 
 Insert 1
-=======
->>>>>>> ce2980d99431940e669673f1c21ae17f7c7a0cad
 
 Insert 2
-
-
 
 Insert 3
